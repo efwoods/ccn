@@ -12,3 +12,6 @@ The Creator then accepts the models, its own weights and outputs another Creatio
 There should be a process to make parts of models in conjunction to create Titans: models that are gargantuan and take many Creators to output.
 
 The Titan is superintelligence.
+
+
+I want to create a model to create language models. This model accepts input data and output data and model weights of a trained and tested working model and outputs model weights that are improved in any domain. Once the model is trained and the output model weights are as performant or better than the original model weights when tested on a hold out set of the input data, I want to use this model on itself to create a hyper-performant model that creates models using the model's own model weights. This new model must then be tested on the same process of the previous model step using the same input and output data as well as known model weights to output model weights. If successful, this new output model weights will immediately be hyper performant or at least as performant as the original model weights. I want to use very tiny models to start with so as to train and test locally and use models that are established as high-performant with a public dataset of input and output data. Please consider, evaluate, synthesize, and describe this process in detail.
